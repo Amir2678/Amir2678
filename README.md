@@ -5,7 +5,7 @@
 ### Hey there 👋
 #### I'm a Front-end developer
 
-### Skills:   
+### Skills:computer:   
 React JS | Javascript | HTML & CSS | Material UI | Bootstrap
 
 I like the satisfaction of a working piece of
