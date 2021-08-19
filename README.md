@@ -1,10 +1,16 @@
-![I'm an IT student at Bahonar university of Kerman](https://res.cloudina[programmer.txt](https://github.com/AmirKakavand/AmirKakavand/files/7017037/programmer.txt)
-ry.com/practicaldev/image/fetch/s--StRkI7Ze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://codesandtags.github.io/blog/static/0c42bdee6c2a7e213cacc2b33ac3039c/a0304/hero.webp)
+![I'm an IT student at Bahonar university of Kerman](https://seanmfox.io/static/img/dev-activity.svg)
 
-[Uploading programmer.txt…]()
 
-### Hi there 👋, my name is Amir
-#### I'm an IT student at Bahonar university of Kerman
-I'm currently a React Intern at Maktab Sharif coding Bootcamp.
 
-Skills: HTML / CSS / Javascript / REACT  
+### Hey there 👋
+#### I'm a Front-end developer
+
+### Skills:   
+React JS | Javascript | HTML & CSS | Material UI | Bootstrap
+
+I like the satisfaction of a working piece of
+code. Eager to learn new things, I always have
+a course or two bookmarked on my browser. I
+speak English fluently and have been learning
+German as well.  
+You can check out my resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7017129/AmirKakavand_Resume.pdf).
