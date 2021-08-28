@@ -15,7 +15,7 @@ And also...
 Tchaikovsky is cool! ^__^
 
 ### Skills :computer:   
-React JS | Javascript | HTML & CSS | Material UI | Bootstrap
+React JS | Javascript | Typescript | HTML & CSS | Material UI | Bootstrap | SASS
 
 ### Resume  :page_with_curl:
-You can check out my resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7017129/AmirKakavand_Resume.pdf).
+Check out my full resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7017129/AmirKakavand_Resume.pdf).
