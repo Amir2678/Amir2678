@@ -18,4 +18,4 @@ Tchaikovsky is cool! ^__^
 React JS | Javascript | Typescript | HTML & CSS | Material UI | Bootstrap | SASS
 
 ### Resume  :page_with_curl:
-Check out my full resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7017129/AmirKakavand_Resume.pdf).
+Check out my full resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7075123/AmirKakavand_Resume.pdf).
