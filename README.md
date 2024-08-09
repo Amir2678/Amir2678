@@ -1,5 +1,5 @@
-### Hey there! I'm a  
-## Front-end web developer
+### Hey there!
+## I'm a Front-end web developer
 
 ### About me :thought_balloon:  
 I like the satisfaction of a working piece of
